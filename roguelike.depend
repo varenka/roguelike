@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1466229110 source:/home/varenka/Desktop/roguelike/main.cpp
+	<iostream>
+	"include/player.h"
+
+1466317101 /home/varenka/Desktop/roguelike/include/player.h
+	<iostream>
+	<string>
+	<stdlib.h>
+
+1466229971 source:/home/varenka/Desktop/roguelike/src/player.cpp
+	"../include/player.h"
+
+1466315976 source:/home/varenka/Desktop/roguelike/src/game.cpp
+	"game.h"
+
+1466316367 /home/varenka/Desktop/roguelike/include/game.h
+	"player.h"
+
+1466316296 source:/home/varenka/Desktop/roguelike/src/tile.cpp
+	"tile.h"
+
+1466316407 /home/varenka/Desktop/roguelike/include/tile.h
+	<vector>
+
